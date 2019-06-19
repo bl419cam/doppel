@@ -1,25 +1,40 @@
 laura_main = ["Dominic Toretto" ,  
-"Brian OConner" ,  
-"Letty fast and furious" ,  
-"Mia Toretto" , 
-"Roman Pearce" , 
-"Tej Parker" , 
-"Sean Boswell"]
+"eva mendes", 
+"deckard fast and furious", 
+"luke evans",
+"Sean Boswell",
+"missandei",
+"one-77"
+]
 
 mia_main = [
+"jordana brewster",
+"tyrese",
 "Han Lue" , 
-"Gisele Yashar", 
+"Gisele Yashar",
+"idris elba",
+"Don Omar"
+]
+
+werlindo_main = [
 "Luke Hobbs" , 
-"vince fast and furious" , 
+"Paul Walker",
+"Letty fast and furious",  
+"Tej Parker",
+"vince fast and furious",
+"jesse fast and furious" 
+]
+
+minor_char = [
+"Brian OConner" ,  
+"Mia Toretto" , 
+"Roman Pearce" , 
 "han lue fast furious", 
-"jesse fast and furious", 
 "suki fast and furious", 
-"deckard fast and furious", 
-"monica fast and furious", 
 "neela fast and furious", 
 "twinkie fast and furious"]
 
-werlindo_main = [
+werlindo_old = [
 "tego leo fast and furious", 
 "rico fast and furious", 
 "elena fast and furious", 
@@ -29,9 +44,10 @@ werlindo_main = [
 "haddie fast and furious", 
 "hector fast and furious", 
 "edwin fast and furious", 
-"acient bilkins fast and furious", 
+"bilkins fast and furious", 
 "sargeant tanner fast and furious", 
-"minka kelly"]
+"minka kelly"
+]
 
 
 laura_list = ["Dominic Toretto" ,  
