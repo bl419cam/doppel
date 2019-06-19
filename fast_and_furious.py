@@ -1,3 +1,39 @@
+laura_main = ["Dominic Toretto" ,  
+"Brian OConner" ,  
+"Letty fast and furious" ,  
+"Mia Toretto" , 
+"Roman Pearce" , 
+"Tej Parker" , 
+"Sean Boswell"]
+
+mia_main = [
+"Han Lue" , 
+"Gisele Yashar", 
+"Luke Hobbs" , 
+"vince fast and furious" , 
+"han lue fast furious", 
+"jesse fast and furious", 
+"suki fast and furious", 
+"deckard fast and furious", 
+"monica fast and furious", 
+"neela fast and furious", 
+"twinkie fast and furious"]
+
+werlindo_main = [
+"tego leo fast and furious", 
+"rico fast and furious", 
+"elena fast and furious", 
+"mister nobody fast and furious", 
+"ramsey fast and furious", 
+"little nobody fast and furious", 
+"haddie fast and furious", 
+"hector fast and furious", 
+"edwin fast and furious", 
+"acient bilkins fast and furious", 
+"sargeant tanner fast and furious", 
+"minka kelly"]
+
+
 laura_list = ["Dominic Toretto" ,  
 "Brian OConner" ,  
 "Letty fast and furious" ,  
