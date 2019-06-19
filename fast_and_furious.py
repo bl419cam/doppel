@@ -1,8 +1,9 @@
-laura_main = ["Dominic Toretto" ,  
+laura_main = [
+"vin diesel"
 "eva mendes", 
-"deckard fast and furious", 
+"jason statham"
 "luke evans",
-"Sean Boswell",
+"lucas black fast",
 "missandei",
 "one-77"
 ]
@@ -10,22 +11,32 @@ laura_main = ["Dominic Toretto" ,
 mia_main = [
 "jordana brewster",
 "tyrese",
-"Han Lue" , 
-"Gisele Yashar",
+"sung kang",
+"gal gadot",
 "idris elba",
 "Don Omar"
 ]
 
 werlindo_main = [
-"Luke Hobbs" , 
+"dwayne johnson" , 
 "Paul Walker",
-"Letty fast and furious",  
-"Tej Parker",
-"vince fast and furious",
-"jesse fast and furious" 
+"michelle rodriguez",
+"matt schulze ",
+"chad lindberg",
+"ludacris"
 ]
 
+
+
 minor_char = [
+"Letty fast and furious",  
+"vince fast and furious",
+"jesse fast and furious",
+"Tej Parker",
+"Gisele Yashar",
+"Han Lue" , 
+"Sean Boswell",
+"Dominic Toretto" ,  
 "Brian OConner" ,  
 "Mia Toretto" , 
 "Roman Pearce" , 
