@@ -1,4 +1,67 @@
-laura_list = "Dominic Toretto" ,  
+laura_main = [
+"vin diesel"
+"eva mendes", 
+"jason statham"
+"luke evans",
+"lucas black fast",
+"missandei",
+"one-77"
+]
+
+mia_main = [
+"jordana brewster",
+"tyrese",
+"sung kang",
+"gal gadot",
+"idris elba",
+"Don Omar"
+]
+
+werlindo_main = [
+"dwayne johnson" , 
+"Paul Walker",
+"michelle rodriguez",
+"matt schulze ",
+"chad lindberg",
+"ludacris"
+]
+
+
+
+minor_char = [
+"Letty fast and furious",  
+"vince fast and furious",
+"jesse fast and furious",
+"Tej Parker",
+"Gisele Yashar",
+"Han Lue" , 
+"Sean Boswell",
+"Dominic Toretto" ,  
+"Brian OConner" ,  
+"Mia Toretto" , 
+"Roman Pearce" , 
+"han lue fast furious", 
+"suki fast and furious", 
+"neela fast and furious", 
+"twinkie fast and furious"]
+
+werlindo_old = [
+"tego leo fast and furious", 
+"rico fast and furious", 
+"elena fast and furious", 
+"mister nobody fast and furious", 
+"ramsey fast and furious", 
+"little nobody fast and furious", 
+"haddie fast and furious", 
+"hector fast and furious", 
+"edwin fast and furious", 
+"bilkins fast and furious", 
+"sargeant tanner fast and furious", 
+"minka kelly"
+]
+
+
+laura_list = ["Dominic Toretto" ,  
 "Brian OConner" ,  
 "Letty fast and furious" ,  
 "Mia Toretto" , 
@@ -28,6 +91,7 @@ laura_list = "Dominic Toretto" ,
 "acient bilkins fast and furious", 
 "sargeant tanner fast and furious", 
 "minka kelly"] 
+
 lindy_list = ["agent markham fast and furious", 
 "orange julius fast and furious", 
 "slap jack fast and furious", 
@@ -60,23 +124,25 @@ lindy_list = ["agent markham fast and furious",
 mia_list = ["d.k. takashi fast and furious", 
 "arturo braga fast and furious", 
 "hernan reyes fast and furious", 
-"owen shaw fast and furious"
-"cipher fast and furious"
-"brixton lore fast and furious"
-"lance nguyen fast and furious"
-"enrique fast and furious"
-"roberto fast and furious"
-"morimoto fast and furious"
-"kamata fast and furious"
-"fenix calderon fast and furious"
-"zizi fast and furious"
-"agent riley hicks fast and furious"
-"vegh fast and furious"
-"klaus fast and furious"
-"jah fast and furious"
-"adolfson fast and furious"
-"denlinger fast and furious"
-"mose jakande fast and furious"
-"kiet fast and furious"
-"kara fast and furious"
-"connor rhodes fast and furious"
+"owen shaw fast and furious",
+"cipher fast and furious",
+"brixton lore fast and furious",
+"lance nguyen fast and furious",
+"enrique fast and furious",
+"roberto fast and furious",
+"morimoto fast and furious",
+"kamata fast and furious",
+"fenix calderon fast and furious",
+"zizi fast and furious",
+"agent riley hicks fast and furious",
+"vegh fast and furious",
+"klaus fast and furious",
+"jah fast and furious",
+"adolfson fast and furious",
+"denlinger fast and furious",
+"mose jakande fast and furious",
+"kiet fast and furious",
+"kara fast and furious",
+"connor rhodes fast and furious"]
+
+# 2019.06.18 wm -light edits
