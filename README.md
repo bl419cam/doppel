@@ -2,7 +2,7 @@
 
 <i> Note: This is a fictional case study. All references to companies and movies are for our imaginary use case, though they are actual brands.</i> 
 
-<img src="website_photos/logo_mlw.png", alt="" width="50%" height="50%">
+<img src="https://github.com/MIAISEMAN/mod4_project/master/website_photos/logo_mlw.png", alt="" width="50%" height="50%">
 
 At MLW Studios, we drive consumer engagement through consumer experiences. Here we present our prototype to Universal Pictures for the premiere of their movie "Hobbs and Shaw: A Fast and Furious Film" Will use Doppel to increase brand awareness through potential customer experiences.# Goal: Increase consumer engagement and brand awareness with the Doppel product, which allows consumers to instantly compare themselves to characters represented by your brand. 
 
@@ -10,7 +10,7 @@ At MLW Studios, we drive consumer engagement through consumer experiences. Here 
 # Business Need
 ## Brand Awareness 
 Typically, the release of a Fast & Furious film is met with eager anticipation from fans. Based on the digital footprint alone, as seen below in the Google Search History since 2011, this is not the case for Fast & Furious Presents Hobbs & Shaw:
-<img src="website_photos/graph.png", alt="" width="100%" height="100%", align="">
+<img src="https://github.com/MIAISEMAN/mod4_project/master/website_photos/graph.png", alt="" width="100%" height="100%", align="">
 
 ## Consumer Engagement 
 Consumers are incredibly loyal to the Fast & Furious brand, but in the case of Hobbs & Shaw, they may be unaware that the movie exists or is related to the franchise. You need a fun way for them to be reminded of the franchise. 
