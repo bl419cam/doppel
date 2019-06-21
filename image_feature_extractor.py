@@ -44,7 +44,10 @@ class ImageFeatureExtractor(BaseEstimator, TransformerMixin):
             response = requests.get(image_pathname)
             img = Image.open(BytesIO(response.content))
         img.load()
-        image = np.asarray(img)
+        img = img.convert("RGB") #add a third column for RGB to any arrays missing a 3rd
+        image = np.asarray(img) 
+        #print(image_pathname)   #show last working image
+        image = image[:,:,:3]    #forces png images to be 3 colors
         return self._extract_features(image)
     
     def _prepare_image(self, image):
