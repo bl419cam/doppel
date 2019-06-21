@@ -10,10 +10,6 @@ class ImageFeatureExtractor(BaseEstimator, TransformerMixin):
     """Extracts deep features from images."""
     
     
-<<<<<<< HEAD
-    
-=======
->>>>>>> 4d33cc7537ee897711f8b250c6c31a44c8c9ea1f
     def __init__(self, model="MobileNetV2", height=160, width=160):
         """Creates an ImageFeatureExtractor using the specified model."""
         self.height, self.width = height, width
@@ -78,12 +74,5 @@ class ImageFeatureExtractor(BaseEstimator, TransformerMixin):
         f = BytesIO(data)
         image = Image.open(f)   
         image_data = np.asarray(image)
-<<<<<<< HEAD
-        return image_data
-=======
         return image_data
     
-#     def __reduce__(self):
-#         return (self.__class__, (self.model, self.height, self.width))
-    
->>>>>>> 4d33cc7537ee897711f8b250c6c31a44c8c9ea1f
