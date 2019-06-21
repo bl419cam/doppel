@@ -10,7 +10,8 @@ At MLW Studios, we drive consumer engagement through consumer experiences. Here 
 # Business Need
 ## Brand Awareness 
 Typically, the release of a Fast & Furious film is met with eager anticipation from fans. Based on the digital footprint alone, as seen below in the Google Search History since 2011, this is not the case for Fast & Furious Presents Hobbs & Shaw:
-<img src="https://github.com/MIAISEMAN/mod4_project/master/website_photos/graph.png", width="100%" height="100%", align="">
+<img src="website_photos/graph.png", width="100%" height="100%"/>
+![](website_photos/graph.png)
 
 ## Consumer Engagement 
 Consumers are incredibly loyal to the Fast & Furious brand, but in the case of Hobbs & Shaw, they may be unaware that the movie exists or is related to the franchise. You need a fun way for them to be reminded of the franchise. 
