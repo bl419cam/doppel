@@ -28,8 +28,16 @@ Next, we used the code at <a href="https://github.com/hardikvasa/google-images-d
 
 We stored the images in an AWS s3 bucket, during which we learned a lot about the bucket policy requirements. We culled the images, making sure of their quality - removing any other characters in the photo. 
 
-# Modeling - needs more information!
-Using a convolutional neural network that was pretrained on facial recognition.  
+# Modeling
+Using a convolutional neural network <a href="https://arxiv.org/abs/1704.04861">(MobileNet v2)</a> that was pretrained for image feature extraction, we then created a random forest on those features to classify the input photos as one of the 18 characters.    
+
+#Evaluation 
+Our model had 35% accuracy on our test data, which is about a 30% improvement over choosing a character randomly. We also included a car in our character output, to see if there were any egregious errors. By design, our product cannot be "wrong," but there a few ways we might improve the quality of the consumer experience:  
+- We would train the model on more images.   
+- We would crop the training images to only the character faces.   
+- This is precisely the reason why in a typical sales cycle the purchasers will provide the images to us.
+- We would explore other models, given more time, especially other models pre-trained on facial feature recognition. 
+- We would ask for more data so as not to overtrain our model and use cross validation.  
 
 # Deployment 
 Doppel is deployable as an experiential in-person activation at an event, or it's available for placement on digital properties such as a mobile app or on a website. You can brand the output and allow for sharing on social media sites - when it comes to going viral, a Doppel do ya!   
