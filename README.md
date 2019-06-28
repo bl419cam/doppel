@@ -46,6 +46,7 @@ Our model had 35% accuracy on our test data, which is about a 30% improvement ov
 Doppel is deployable as an experiential in-person activation at an event, or it's available for placement on digital properties such as a mobile app or on a website. You can brand the output and allow for sharing on social media sites - when it comes to going viral, a [Doppel do ya](http://www.doppeldoya.com)!   
    
 As an organization that believes in open source software, we also invite you to explore our product's [GitHub repository](https://github.com/Laura-ShummonMaass/mod4_project)! If you would like to run a version of the app on your local machine simply:
+- clone the repo to your local machine
 - `pip install Flask` (If not already installed)
 - From the project folder, in bash/terminal type:
      - `FLASK_APP=app.py flask run`
