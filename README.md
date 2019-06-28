@@ -2,15 +2,18 @@
 
 <i> Note: This is a fictional case study. All references to companies and movies are for our imaginary use case, though they are actual brands.</i> 
 
-<img src="https://github.com/MIAISEMAN/mod4_project/master/website_photos/logo_mlw.png", width="50%" height="50%">
+![](website_photos/logo_mlw.png)
 
-At MLW Studios, we drive consumer engagement through consumer experiences. Here we present our prototype to Universal Pictures for the premiere of their movie "Hobbs and Shaw: A Fast and Furious Film" Will use Doppel to increase brand awareness through potential customer experiences.# Goal: Increase consumer engagement and brand awareness with the Doppel product, which allows consumers to instantly compare themselves to characters represented by your brand. 
+At MLW Studios, we drive consumer engagement through consumer experiences. Here we present our prototype to Universal Pictures for the premiere of their movie "Hobbs and Shaw: A Fast and Furious Film" Will use Doppel to increase brand awareness through potential customer experiences.
 
+# Goal: 
+Increase consumer engagement and brand awareness with the Doppel product, which allows consumers to instantly compare themselves to characters represented by your brand. 
 
 # Business Need
 ## Brand Awareness 
 Typically, the release of a Fast & Furious film is met with eager anticipation from fans. Based on the digital footprint alone, as seen below in the Google Search History since 2011, this is not the case for Fast & Furious Presents Hobbs & Shaw:
-<img src="https://github.com/MIAISEMAN/mod4_project/master/website_photos/graph.png", width="100%" height="100%", align="">
+
+![](website_photos/graph.png)
 
 ## Consumer Engagement 
 Consumers are incredibly loyal to the Fast & Furious brand, but in the case of Hobbs & Shaw, they may be unaware that the movie exists or is related to the franchise. You need a fun way for them to be reminded of the franchise. 
@@ -40,6 +43,10 @@ Our model had 35% accuracy on our test data, which is about a 30% improvement ov
 - We would ask for more data so as not to overtrain our model and use cross validation.  
 
 # Deployment 
-Doppel is deployable as an experiential in-person activation at an event, or it's available for placement on digital properties such as a mobile app or on a website. You can brand the output and allow for sharing on social media sites - when it comes to going viral, a Doppel do ya!   
+Doppel is deployable as an experiential in-person activation at an event, or it's available for placement on digital properties such as a mobile app or on a website. You can brand the output and allow for sharing on social media sites - when it comes to going viral, a [Doppel do ya](http://www.doppeldoya.com)!   
    
-
+As an organization that believes in open source software, we also invite you to explore our product's [GitHub repository](https://github.com/Laura-ShummonMaass/mod4_project)! If you would like to run a version of the app on your local machine simply:
+- clone the repo to your local machine
+- `pip install Flask` (If not already installed)
+- From the project folder, in bash/terminal type:
+     - `FLASK_APP=app.py flask run`
